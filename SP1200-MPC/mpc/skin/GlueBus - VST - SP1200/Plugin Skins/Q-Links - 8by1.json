@@ -1,0 +1,64 @@
+{
+  "version": 4,
+  "info": {
+    "version": 1,
+    "type": "CompleteDescription"
+  },
+  "Screen Mode Q-Links": {
+    "version": 4,
+    "map": [
+      {
+        "Tab": 1,
+        "SubTab": 1,
+        "Bank Direction": "Column",
+        "Q-Links": {
+          "Q-Link 1": 0,
+          "Q-Link 2": 2,
+          "Q-Link 3": 12,
+          "Q-Link 4": 1,
+          "Q-Link 5": 5,
+          "Q-Link 6": 7,
+          "Q-Link 7": 8,
+          "Q-Link 8": 9,
+          "Q-Link 9": 10,
+          "Q-Link 10": 11,
+          "Q-Link 11": 16,
+          "Q-Link 12": 15
+        }
+      },
+      {
+        "Tab": 2,
+        "SubTab": 1,
+        "Bank Direction": "Column",
+        "Q-Links": {
+          "Q-Link 1": 3,
+          "Q-Link 2": 4,
+          "Q-Link 3": 18,
+          "Q-Link 4": 13,
+          "Q-Link 5": 14,
+          "Q-Link 6": 27,
+          "Q-Link 7": 6,
+          "Q-Link 8": 43,
+          "Q-Link 9": 44,
+          "Q-Link 10": 17,
+          "Q-Link 11": 42,
+          "Q-Link 12": 25
+        }
+      }
+    ]
+  },
+  "Program Mode Q-Links": {
+    "Q-Link 1": 0,
+    "Q-Link 2": 2,
+    "Q-Link 3": 12,
+    "Q-Link 4": 1,
+    "Q-Link 5": 5,
+    "Q-Link 6": 7,
+    "Q-Link 7": 8,
+    "Q-Link 8": 9,
+    "Q-Link 9": 10,
+    "Q-Link 10": 11,
+    "Q-Link 11": 16,
+    "Q-Link 12": 15
+  }
+}
